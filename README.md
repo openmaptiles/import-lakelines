@@ -1,6 +1,6 @@
 # !!! OBSOLETE !!!
 
-This repo has been archived. Use [openmaptiles-tools/imports/lakelines](https://github.com/openmaptiles/openmaptiles-tools/tree/master/imports/lakelines) instead.
+This repo has been archived. Use [openmaptiles-tools/docker/import-lakelines](https://github.com/openmaptiles/openmaptiles-tools/tree/master/docker/import-lakelines) instead.
 
 -----
 
